@@ -3,18 +3,19 @@
 ## Screenshots
 
 ### Login Page
-<img width="1919" height="999" alt="Screenshot 2025-12-04 192146" src="https://github.com/user-attachments/assets/e2962c6b-c2d3-4907-88ec-a950cc2d65f4" />
 
-<img width="1911" height="977" alt="Screenshot 2025-12-05 173734" src="https://github.com/user-attachments/assets/0ab0bf54-dc46-4e8d-8d3f-9d9f5c149586" />
+<img width="1918" height="969" alt="image" src="https://github.com/user-attachments/assets/be9dec94-43d8-44c7-90c8-c32b3aefe6b4" />
 
+<img width="1911" height="977" alt="image" src="https://github.com/user-attachments/assets/a42fe9da-2177-4969-a8ad-a50ffeb27412" />
+
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/d96fe9d6-b4b6-4bdf-85eb-f92d6e8351c7" />
 
 ### Register Page
 
-<img width="1919" height="965" alt="Screenshot 2025-12-05 173936" src="https://github.com/user-attachments/assets/fb0fa5d8-93f9-4a07-81e1-b848c6fd1f2b" />
+<img width="1917" height="976" alt="image" src="https://github.com/user-attachments/assets/4b64ee9b-7bed-415b-adb5-80ce8a5bdb6f" />
 
-<img width="1919" height="965" alt="Screenshot 2025-12-05 173936" src="https://github.com/user-attachments/assets/8d6d2ea8-d202-41b5-bf95-6b0c55a39aff" />
+<img width="1917" height="976" alt="image" src="https://github.com/user-attachments/assets/5ccb1a49-6177-440b-bb9a-aac7baf0acca" />
 
-<img width="1917" height="976" alt="Screenshot 2025-12-05 173808" src="https://github.com/user-attachments/assets/13007412-51e7-44b6-91b5-99fde1997a0f" />
 
 
 ---
